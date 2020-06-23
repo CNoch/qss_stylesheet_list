@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/button.qss</file>
+        <file>qt_doc/Qt_Style_Sheets.html</file>
+    </qresource>
+</RCC>
