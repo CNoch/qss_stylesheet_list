@@ -1,1 +1,2 @@
 # qss_stylesheet_list
+列出所有已知控件的qss的所有用法
